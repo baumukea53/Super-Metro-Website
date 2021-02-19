@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01c8ce64-9f2c-44cb-8fda-5faf76688375" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oQhw7C5fYcqBli2A7OWnwxAnYZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ANTHONY B\PhpstormProjects\project2\images" />
+      <recent name="C:\Users\ANTHONY B\PhpstormProjects\project2" />
+      <recent name="C:\Users\ANTHONY B\PhpstormProjects\project2\bootstrap\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01c8ce64-9f2c-44cb-8fda-5faf76688375" name="Default Changelist" comment="" />
+      <created>1613224958563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613224958563</updated>
+      <workItem from="1613224959854" duration="1265000" />
+      <workItem from="1613226625175" duration="1581000" />
+      <workItem from="1613228466754" duration="1605000" />
+      <workItem from="1613230309115" duration="1644000" />
+      <workItem from="1613232158440" duration="1019000" />
+      <workItem from="1613236694276" duration="1457000" />
+      <workItem from="1613238645911" duration="1404000" />
+      <workItem from="1613240564231" duration="1503000" />
+      <workItem from="1613242573945" duration="1366000" />
+      <workItem from="1613244507253" duration="1447000" />
+      <workItem from="1613246437860" duration="530000" />
+      <workItem from="1613292378924" duration="1376000" />
+      <workItem from="1613294225157" duration="721000" />
+      <workItem from="1613299446439" duration="1534000" />
+      <workItem from="1613301399122" duration="1553000" />
+      <workItem from="1613303233370" duration="1598000" />
+      <workItem from="1613305109548" duration="1002000" />
+      <workItem from="1613321925570" duration="1439000" />
+      <workItem from="1613323701457" duration="1639000" />
+      <workItem from="1613325569087" duration="1631000" />
+      <workItem from="1613327487189" duration="1612000" />
+      <workItem from="1613329520445" duration="837000" />
+      <workItem from="1613331736890" duration="720000" />
+      <workItem from="1613366368378" duration="476000" />
+      <workItem from="1613382582515" duration="566000" />
+      <workItem from="1613384281698" duration="1240000" />
+      <workItem from="1613386667654" duration="872000" />
+      <workItem from="1613388782278" duration="6000" />
+      <workItem from="1613412724193" duration="640000" />
+      <workItem from="1613413724981" duration="46000" />
+      <workItem from="1613454888905" duration="1461000" />
+      <workItem from="1613456622664" duration="1544000" />
+      <workItem from="1613458454414" duration="217000" />
+      <workItem from="1613474283131" duration="25000" />
+      <workItem from="1613539738834" duration="1085000" />
+      <workItem from="1613642958065" duration="227000" />
+      <workItem from="1613646773048" duration="404000" />
+      <workItem from="1613669929045" duration="688000" />
+      <workItem from="1613671682429" duration="569000" />
+      <workItem from="1613673623523" duration="627000" />
+      <workItem from="1613676053898" duration="896000" />
+      <workItem from="1613727293699" duration="612000" />
+      <workItem from="1613729470260" duration="610000" />
+      <workItem from="1613730172007" duration="152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613232433618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1613232433618" />
+  </component>
+</project>
